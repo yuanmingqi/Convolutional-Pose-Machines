@@ -23,9 +23,9 @@
         <img src="https://img.shields.io/badge/python-3.x-blue.svg" >
     </a>
 </p>
-<div align='center'>
-    ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019110116544650.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjQ5OTIzNg==,size_16,color_FFFFFF,t_70)
-</div>
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2019110116544650.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjQ5OTIzNg==,size_16,color_FFFFFF,t_70)
+
 
 ---
 # Developing environment
