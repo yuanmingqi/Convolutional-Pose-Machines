@@ -56,10 +56,6 @@ Clone it：
 ```
 $ git clone https://github.com/Mingqi-Yuan/Convolutional-Pose-Machines.git
 ```
-or  you can get the zip file，then make a  **Flask project** with **PyCharm**.
-```
-$  wget https://codeload.github.com/Mingqi-Yuan/Convolutional-Pose-Machines/zip/master
-```
 ---
 
 # License
