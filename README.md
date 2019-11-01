@@ -39,7 +39,7 @@
 |**opencv**|3.2.0|
 
 # Packages required
-The moudle below is required for the ConvolutionBox:
+The moudle below is required for the project:
 
 
 * TensorFlow
