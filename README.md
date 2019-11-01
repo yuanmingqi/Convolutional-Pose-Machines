@@ -24,7 +24,7 @@
     </a>
 </p>
 <div align='center'>
-    <img src= '“https://github.com/Mingqi-Yuan/Convolutional-Pose-Machines/blob/master/20191101162058695.png”'>
+    <img src= 'https://github.com/Mingqi-Yuan/Convolutional-Pose-Machines/blob/master/20191101162058695.png'>
 </div>
 
 ---
