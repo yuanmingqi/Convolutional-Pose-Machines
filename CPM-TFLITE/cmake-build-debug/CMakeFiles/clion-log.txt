@@ -1,0 +1,6 @@
+/home/ai/Downloads/CLion-2019.2.4/clion-2019.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ai/CLionProjects/CPM-TFLITE
+-- Configuring done
+WARNING: Target "cpm-tflite" requests linking to directory "/usr/lib".  Targets may link only to libraries.  CMake is dropping the item.
+WARNING: Target "cpm-tflite" requests linking to directory "/usr/local/lib".  Targets may link only to libraries.  CMake is dropping the item.
+-- Generating done
+-- Build files have been written to: /home/ai/CLionProjects/CPM-TFLITE/cmake-build-debug
