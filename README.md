@@ -40,7 +40,7 @@ The moudle below is required for the project:
 
 # For Mobile & IoT
 Please refer to the following development manual：
-[Development Manual](https://github.com/Mingqi-Yuan/Convolutional-Pose-Machines/blob/master/TensorFLow%20Lite%20%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%881.1%EF%BC%89.html)
+[Development Manual](https://github.com/Mingqi-Yuan/Convolutional-Pose-Machines/blob/master/TensorFLow%20Lite%20%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%881.1%EF%BC%89.md)
 
 # Get it now
 Clone it：
