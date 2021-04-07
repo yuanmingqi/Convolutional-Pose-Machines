@@ -1,12 +1,3 @@
-<div align='center'>
-    <img src= 'https://github.com/Mingqi-Yuan/ADMP/blob/master/example/pulseai_logo.png'>
-</div>
-
-<h1 align="center">
-  Convolutional Pose Machines
-</h1>
-
----
 <p align="center">
     <em>The implementation of Convolutional Pose Machines based on TensorFlow 2.0 and TensorFlow Lite.</em>
     <br>
